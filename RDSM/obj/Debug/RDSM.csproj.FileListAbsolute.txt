@@ -1,0 +1,10 @@
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.Forms.frm_Combustivel.resources
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.csproj.GenerateResource.cache
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\PRIMAVERA\SG100\Config\LP\Extensions\RDSM.dll
+C:\Program Files (x86)\PRIMAVERA\SG100\Config\LP\Extensions\RDSM.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.dll
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\RDSM\obj\Debug\RDSM.Properties.Resources.resources
+C:\Program Files (x86)\PRIMAVERA\SG100\Config\LP\Extensions\RSDM\RDSM.dll
+C:\Program Files (x86)\PRIMAVERA\SG100\Config\LP\Extensions\RSDM\RDSM.pdb

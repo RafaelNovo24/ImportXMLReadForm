@@ -1,0 +1,12 @@
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\obj\Debug\XMLCombustiveis.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\obj\Debug\XMLCombustiveis.exe
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\obj\Debug\XMLCombustiveis.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\XMLCombustiveis.exe.config
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\XMLCombustiveis.exe
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\XMLCombustiveis.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\exe\XMLCombustiveis.exe
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\exe\XMLCombustiveis.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\exe\Dapper.dll
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\exe\Dapper.xml
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\obj\Debug\XMLCombustiveis.csproj.CopyComplete
+C:\Users\Rafael Novo\Desktop\Empresas\RDSM Recauchutagem\XMLCombustiveis\obj\Debug\XMLCombustiveis.csproj.AssemblyReference.cache
